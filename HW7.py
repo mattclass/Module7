@@ -1,6 +1,8 @@
 from collections import OrderedDict
 from sortedcontainers import SortedDict
 
+#adding comments so I can do a PULL from the git interweb!
+
 print( 'Regular dictionary')
 d = {}
 d['a'] = 'A'
